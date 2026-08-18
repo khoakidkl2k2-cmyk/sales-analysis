@@ -60,5 +60,5 @@ sales-analysis/
 ├── README.md
 ├── SQL/
 ├── PowerBI/
-├── Documentation/
+├── Project/
 └── Images/
