@@ -1,4 +1,4 @@
-# Documentation
+# Project
 
 This folder contains business understanding,
 business questions, KPI definitions, analysis findings,
